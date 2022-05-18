@@ -1,1 +1,3 @@
 print("Skolotājs")
+
+print("Miks")
